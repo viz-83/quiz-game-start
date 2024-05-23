@@ -1,0 +1,48 @@
+question_data = [
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "A flock of crows is known as a homicide.",
+        "correct_answer": "False",
+        "incorrect_answers": ["True"]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "AMC&#039;s &quot;The Walking Dead&quot;, Rick, Carl, Daryl, Morgan, Carol and Maggie were introduced to us in Season 1.",
+        "correct_answer": "False",
+        "incorrect_answers": ["True"]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "The term &quot;GTO&quot; was originated by Ferrari?",
+        "correct_answer": "True",
+        "incorrect_answers": ["False"]},
+                 {"type": "boolean", "difficulty": "medium",
+                  "category": "Entertainment: Video Games",
+                  "question": "Mortal Kombat was almost based on Jean-Claude Van Damme movie.",
+                  "correct_answer": "True", "incorrect_answers": ["False"]},
+                 {"type": "boolean", "difficulty": "medium",
+                  "category": "Entertainment: Video Games",
+                  "question": "The scrapped Sonic the Hedgehog 2 level &quot;Hidden Palace Zone&quot; was later reused in the iOS port of the game. ",
+                  "correct_answer": "True", "incorrect_answers": ["False"]},
+                 {"type": "boolean", "difficulty": "medium", "category": "Entertainment: Film",
+                  "question": "Sean Connery wasn&#039;t in &quot;Indiana Jones and the Kingdom of the Crystal Skull&quot; because he found retirement too enjoyable.",
+                  "correct_answer": "True", "incorrect_answers": ["False"]},
+                 {"type": "boolean", "difficulty": "easy", "category": "Entertainment: Video Games",
+                  "question": "In Resident Evil 4, the Chicago Typewriter has infinite ammo.",
+                  "correct_answer": "True", "incorrect_answers": ["False"]},
+                 {"type": "boolean", "difficulty": "hard", "category": "General Knowledge",
+                  "question": "Stagecoach owned &quot;South West Trains&quot; before losing the rights to FirstGroup and MTR in March of 2017.",
+                  "correct_answer": "True", "incorrect_answers": ["False"]},
+                 {"type": "boolean", "difficulty": "medium", "category": "History",
+                  "question": "The M41 Walker Bulldog remains in service in some countries to this day.",
+                  "correct_answer": "True", "incorrect_answers": ["False"]},
+                 {"type": "boolean", "difficulty": "medium", "category": "Science: Computers",
+                  "question": "Android versions are named in alphabetical order.",
+                  "correct_answer": "True", "incorrect_answers": ["False"]}
+]
